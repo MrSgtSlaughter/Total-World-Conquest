@@ -1,0 +1,26 @@
+{
+  "name": "total-world-conquest",
+  "version": "1.0.0",
+  "description": "Total World Conquest - Multiplayer Strategy Game for 7th Grade Social Studies",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "vite"
+  },
+  "keywords": ["game", "strategy", "education"],
+  "author": "Jason Slaughter",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "phaser": "^3.55.2",
+    "@supabase/supabase-js": "^2.38.4",
+    "zustand": "^4.4.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.0.8"
+  }
+}
